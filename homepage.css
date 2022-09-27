@@ -1,0 +1,44 @@
+
+body{
+    background-image: url(./bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+#title-div{
+    text-align: center;
+    color: white;
+}
+
+#function-div{
+    text-align: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+#map-div {
+    text-align: center;
+}
+
+#map-img{
+    margin-top: 50px;
+    width: 500px;
+    height: 350px;
+    border: 1px solid black;
+    border-radius: 7px;
+}
+
+input{
+    font-size: 15;
+    border-radius: 7px;
+    border: 1px solid;
+    padding: 7px 25px;
+}
+
+button{
+    border-radius: 7px;
+    border: 1px solid;
+    padding: 7px 25px;
+    font-size: 15;
+}
