@@ -23,7 +23,7 @@ h1{
 }
 
 body{
-    background-image: url("../building-bg.jpg");
+    background-image: url("./building-bg.jpg");
     background-size: cover;
 }
 
