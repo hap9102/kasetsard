@@ -1,8 +1,8 @@
-inputEl = document.getElementById("input-el")
+selectEl = document.getElementById("places")
 searchBtn = document.getElementById("search-btn")
 
 function search(){
-    switch(inputEl.value){
+    switch(selectEl.value){
         case "อาคาร1" : 
             searchBtn.onclick = location.href="../building1/building1.html"
             break

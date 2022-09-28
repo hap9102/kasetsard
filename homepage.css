@@ -29,11 +29,10 @@ body{
     border-radius: 7px;
 }
 
-input{
-    font-size: 15;
+select{
     border-radius: 7px;
     border: 1px solid;
-    padding: 7px 25px;
+    padding: 7px 10px;
 }
 
 button{
@@ -41,4 +40,17 @@ button{
     border: 1px solid;
     padding: 7px 25px;
     font-size: 15;
+}
+
+option{
+    background-color: rgb(59, 141, 59);
+    color: white;
+}
+
+button:hover{
+    border: 1px solid greenyellow;
+}
+
+select:hover{
+    border: 1px solid greenyellow;
 }
